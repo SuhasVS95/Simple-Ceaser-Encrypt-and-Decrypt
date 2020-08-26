@@ -1,4 +1,4 @@
-# Simple-Ceaser-Encrypt-and-Decrypt
+# Simple-Ceaser-Encrypt-and-Decrypt-using-Python
 What is a Ceaser Encrytion? Well, it It is a substitution cipher where each character of the original text is shifted a certain number characters in the alphabet.
 
 Problem Statement:
